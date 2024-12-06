@@ -1,7 +1,5 @@
 # Value Investing Strategy
 
-
-## Overview
 This project implements a **robust value investing strategy** using multiple valuation metrics to identify undervalued stocks.
 
 ## AIM
