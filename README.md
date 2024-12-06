@@ -1,6 +1,13 @@
 # Quantitative-Trading-learning
 ---
 
+> [!TIP]  
+> Star The Repository If It Helped You!  
+
+> [!IMPORTANT]  
+> I'm continually adding more projects as I learn new strategies. I will keep updating the ReadMe to explain everything in more detail.  
+
+
 Welcome to my **Quantitative Trading Learning** repository! This repository serves as my personal journey into the world of quantitative trading, Here I will Add Projects that used ML and Non-ML Algorithms. Each project here is a hands-on implementation inspired by tutorials I followed on YouTube, but with my own unique modifications, such as the use of different APIs and datasets, resulting in varying syntax and methodologies. 
 
 The goal of this repository is to explore and apply quantitative trading strategies to build a strong understanding of the principles behind them. 
