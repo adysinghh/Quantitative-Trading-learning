@@ -1,5 +1,8 @@
 # S&P 500 Equal Weight Screener
 
+> [!IMPORTANT]  
+> I will keep updating the ReadMe to explain Code in more detail.  
+
 ### Overview
 This project implements an **equal-weighted version of the S&P 500 index**. Unlike the traditional index, where larger companies dominate due to market capitalization, this version gives equal importance to every stock.
 
