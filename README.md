@@ -1,5 +1,4 @@
 # Quantitative-Trading-learning
----
 
 > [!TIP]  
 > Star The Repository If It Helped You!  
