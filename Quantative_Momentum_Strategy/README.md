@@ -1,5 +1,8 @@
 #### Quantitative Momentum Investing Strategy
 ---
+> [!IMPORTANT]  
+> I will keep updating the ReadMe to explain Code in more detail.
+
 ### Overview
 This project focuses on building a momentum-based investment strategy that identifies and invests in the **top 50 stocks with the HQM **. 
 
