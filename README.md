@@ -5,6 +5,9 @@
 
 > [!IMPORTANT]  
 > I'm continually adding more projects as I learn new strategies. I will keep updating the ReadMe to explain everything in more detail.
+
+> [!NOTE]  
+> I'm open to contributions and would love to hear your feedback! Feel free to submit pull requests for any improvements, bug fixes, or suggestions.  
  
 ## Usage
 Clone the repository:
