@@ -17,9 +17,7 @@ Welcome to my **Quantitative Trading Learning** repository! This repository serv
 The goal of this repository is to explore and apply quantitative trading strategies to build a strong understanding of the principles behind them. 
 
 
-## Projects in This Repository 📂 
-
-### 1. **S&P 500 Equal Weight Screener**
+## 1. **S&P 500 Equal Weight Screener**
 - **Objective**: Create a version of the S&P 500 index that equal weights all the stocks, unlike the traditional index where larger companies have a higher weight due to market capitalization.
 - **Implementation**: 
   - Utilized the **Tiingo API** and an S&P 500 dataset.
@@ -27,7 +25,7 @@ The goal of this repository is to explore and apply quantitative trading strateg
 - **Outcome**: This equal-weighted index provides a different perspective on how the S&P 500 would perform if every company carried the same weight, Saved the results in an Excel file using `xlsxwriter`.
 
 
-### 2. **Quantitative Momentum Investing Strategy**
+## 2. **Quantitative Momentum Investing Strategy**
 - **Objective**: Build a momentum-based investment strategy that selects the top 50 stocks with the highest price momentum.
 - **Implementation**: 
   - Calculated **High-Quality Momentum (HQM)** scores using percentile ranks for:
@@ -36,7 +34,7 @@ The goal of this repository is to explore and apply quantitative trading strateg
 - **Outcome**: This project demonstrates the power of momentum as a trading signal, prioritizing stocks that have shown strong price performance, Saved the results in an Excel file using `xlsxwriter`.
 
 
-### 3. **Value Investing Strategy**
+## 3. **Value Investing Strategy**
 - **Objective**: Develop a robust value investing strategy using multiple valuation metrics to overcome the limitations of individual metrics.
 - **Implementation**:
   - Used metrics like:
@@ -49,7 +47,7 @@ The goal of this repository is to explore and apply quantitative trading strateg
 - **Outcome**: This strategy identifies undervalued stocks by balancing out the flaws of individual valuation metrics, Saved the results in an Excel file using `xlsxwriter`.
 
 
-### What's Next?🧑🏾‍💻
+## What's Next?🧑🏾‍💻
 I'm continually adding more projects as I learn new strategies and explore new concepts, including machine learning techniques related to algorithmic trading
 
 
