@@ -50,6 +50,16 @@ The goal of this repository is to explore and apply quantitative trading strateg
 - **Outcome**: This strategy identifies undervalued stocks by balancing out the flaws of individual valuation metrics, Saved the results in an Excel file using `xlsxwriter`.
 
 
+## 4. **Time-Series Forecasting**
+- **Objective**: To implement and learn various Time-Series Forecasting Techniques.
+- **Implemented**
+  - Using Stacked LSTM
+  - Using Multivarite LSTM
+  - Random Forest
+
+
+
+
 ## What's Next?🧑🏾‍💻
 I'm continually adding more projects as I learn new strategies and explore new concepts, including machine learning techniques related to algorithmic trading
 
